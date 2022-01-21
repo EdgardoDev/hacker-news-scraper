@@ -1,9 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://raw.githubusercontent.com/EdgardoDev/MyFiles/e72a4efaef694a34a420b7f94e320c307841af52/python-logo.jpg" alt="Python Logo" height="300" width="300"/>
-
-  &#xa0;
-
-  <!-- <a href="https://hackernewsscraper.netlify.app">Demo</a> -->
+  <img src="https://raw.githubusercontent.com/EdgardoDev/MyFiles/e72a4efaef694a34a420b7f94e320c307841af52/python-logo.jpg" alt="Python Logo" height="250" width="250"/>
 </div>
 
 <h1 align="center">Hacker News Scraper</h1>
