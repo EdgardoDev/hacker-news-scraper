@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://raw.githubusercontent.com/EdgardoDev/MyFiles/e72a4efaef694a34a420b7f94e320c307841af52/python-logo.jpg" alt="Python Logo" height="250" width="250"/>
+  <img src="https://github.com/EdgardoDev/MyFiles/blob/main/Python.svg.png?raw=true" alt="Python Logo" height="250" width="250"/>
 </div>
 
 <h1 align="center">Hacker News Scraper</h1>
