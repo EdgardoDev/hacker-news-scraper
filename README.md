@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://raw.githubusercontent.com/EdgardoDev/MyFiles/e72a4efaef694a34a420b7f94e320c307841af52/python-logo.jpg" alt="Python Logo" />
+  <img src="https://raw.githubusercontent.com/EdgardoDev/MyFiles/e72a4efaef694a34a420b7f94e320c307841af52/python-logo.jpg" alt="Python Logo" height="300" width="300"/>
 
   &#xa0;
 
