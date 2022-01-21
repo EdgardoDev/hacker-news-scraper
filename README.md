@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/EdgardoDev/MyFiles/blob/main/Python.svg.png?raw=true" alt="Python Logo" height="250" width="250"/>
+  <img src="https://github.com/EdgardoDev/MyFiles/blob/main/Python.svg.png?raw=true" alt="Python Logo" height="200" width="200"/>
 </div>
 
 <h1 align="center">Hacker News Scraper</h1>
@@ -35,30 +35,27 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/EdgardoDev" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+Hacker News Python Scraper
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Scrapes news from HN.
+:heavy_check_mark: Scrapes news with at least 100 points.
 
 ## :rocket: Modules ##
 
 The following modules were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [requests]()
+- [BeautifulSoup]()
+
 
 ## :white_check_mark: Requirements ##
 
