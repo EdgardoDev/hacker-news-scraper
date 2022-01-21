@@ -10,6 +10,10 @@ soup = BeautifulSoup(res.text, "html.parser")
 news_link = soup.select(".titlelink")
 subtext = soup.select(".subtext")
 
+# Function to sort news by votes.
+def sort_news_by_votes(hnlist):
+  return sorted(hnlist, key= lambda k:k["votes"], reverse=True)
+
 # Function to grab the title link and votes of each news on HN.
 def custom_news_format(news_link, subtext):
   news = []
@@ -21,6 +25,6 @@ def custom_news_format(news_link, subtext):
       points = int(vote[0].getText().replace(" points", ""))
       if points > 99: # Search only for news with at least 100 points.
         news.append({"title": title, "href": href, "votes": points})
-  return news
+  return sort_news_by_votes(news)
 
 pprint.pprint(custom_news_format(news_link, subtext))

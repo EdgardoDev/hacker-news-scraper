@@ -2,7 +2,7 @@
   <img src="https://github.com/EdgardoDev/MyFiles/blob/main/Python.svg.png?raw=true" alt="Python Logo" height="200" width="200"/>
 </div>
 
-<h1 align="center" text-transform="uppercase">Hacker News Scraper</h1>
+<h1 align="center">Hacker News Scraper</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/EdgardoDev/hacker-news-scraper?color=1976D2">
